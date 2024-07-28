@@ -1,6 +1,17 @@
-# LeetCodeRivals
+# LeetCode Rivals - Tophat
+
+This repository contains the frontend code for LeetCode Rivals, a web application that gamifies coding practice by allowing users to compete based on their LeetCode submissions. Built with Angular, it features interactive charts, responsive design, and a user-friendly interface to track coding progress and engage in friendly competition.
+
+Created on July 28, 2024
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
+
+## Setup Guide (Win)
+1. Install Git
+2. Install Node from web - Check using "node -v" and "npm -v"
+3. Install Angular CLI - "npm install -g @angular/cli@16" - Check using "ng v"
+4. Final check using - "ng serve"
+6. Install PrimeNG - "npm install primeng"
 
 ## Development server
 
